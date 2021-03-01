@@ -134,23 +134,25 @@ button:hover {
 }
 
 .carousel .right img {
-  width: 46%;
-  height: 95%;
+  height: 418px;
+  width: 85%;
 }
 
 .carousel .right .right_1 {
   position: absolute;
+  width: 46%;
 }
 
 .carousel .right .right_2 {
+  width: 46%;
   position: relative;
   left: 5px;
   top: 9px;
 }
 
 .carousel .right .right_2 img {
-  width: 165px;
-  height: 350px;
+  width: 99%;
+  height: 399px;
   border-radius: 17px;
   display: flex !important;
 }
